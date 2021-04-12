@@ -1,0 +1,6 @@
+framework module Pods_UIKitBecaiOS {
+  umbrella header "Pods-UIKitBecaiOS-umbrella.h"
+
+  export *
+  module * { export * }
+}
